@@ -1,5 +1,5 @@
 # Python for Data Science and Machine Learning Essential Training Part 2
-This is the repository for the LinkedIn Learning course `Python for Data Science and Machine Learning Essential Training Part 2`. The full course is available from [LinkedIn Learning][lil-course-url].
+This is the repository for the LinkedIn Learning course `Python for Data Science and Machine Learning Essential Training Part 2`. The full course is available from [LinkedIn Learning][lil-course-url]
 
 ![lil-thumbnail-url]
 
